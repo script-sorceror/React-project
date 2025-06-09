@@ -40,5 +40,24 @@
     background-color: #f2f4ff;
 }
 
+@media (max-width:900px){
+    .navbar .logo{
+        width:140px
+    }
+    .navbar-menu{
+        gap: 15px;
+        font-size: 1.6rem;
+    }
+    .navbar-right{
+        gap: 20px;
 
+    }
+    .navbar-right img{
+        width: 20px;
+    }
+    .navbar button{
+        padding: 7px 20px;
+        font-size: 1.5rem;
+    }
+}
 
