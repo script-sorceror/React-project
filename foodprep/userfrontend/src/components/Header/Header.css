@@ -21,7 +21,7 @@
 .header-contents h2{
     font-weight: 500;
     font-size: max(4.5vw,2.2rem);
-    color: var(--theme-color);
+    color: #000000;
     text-shadow: 
     0.7px 0.7px 0 #fff,
     -0.7px 0.7px 0 #fff,
