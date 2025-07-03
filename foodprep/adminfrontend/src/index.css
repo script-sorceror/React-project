@@ -4,7 +4,12 @@
     box-sizing: border-box;
 }
 
+:root{
+    --theme-color:#21063e
+}
+
 body{
+    font-size: 1.6rem;
     min-height: 100vh;
     background-color: #fcfcfc;
 }
@@ -18,4 +23,9 @@ hr{
     border: none;
     height: 1px;
     background-color: #a9a9a9;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
 }
